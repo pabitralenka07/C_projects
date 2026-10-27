@@ -1,0 +1,32 @@
+algorithm|noun|A step-by-step procedure for solving a problem or accomplishing a task.|Binary search is an efficient logarithmic algorithm.
+binary|adjective|Relating to, composed of, or involving two things or base-2 numbers.|Computers process data in binary representation of zeros and ones.
+boolean|noun|A binary variable that can take on one of two possible values: true or false.|The condition in an if statement evaluates to a boolean value.
+buffer|noun|A region of memory used to temporarily store data while it is being moved.|We flushed the buffer to ensure the output was written immediately.
+compiler|noun|A program that translates computer code written in one programming language into another.|The compiler reported zero syntax warnings under strict C11 flags.
+concurrency|noun|The ability of different parts of a program to be executed out-of-order or in partial order.|Concurrency requires careful synchronization to prevent data races.
+constant|noun|A value that cannot be altered by the program during its normal execution.|Mathematical constants like Pi are often defined as read-only symbols.
+cryptography|noun|The practice and study of techniques for secure communication in the presence of adversaries.|Salted hashing is an essential primitive in password cryptography.
+database|noun|An organized collection of data stored and accessed electronically from a computer system.|The library database indexed thousands of volumes by ISBN.
+deterministic|adjective|An algorithm or model that produces the same output every time given the same input.|Unit tests should be deterministic to avoid intermittent failures.
+dynamic|adjective|Characterized by constant change, activity, or allocation during runtime.|The application uses dynamic memory allocation for resizing arrays.
+encapsulation|noun|The bundling of data with the methods that operate on that data.|Encapsulation protects an object's internal representation from direct modification.
+entropy|noun|A measure of randomness or unpredictability in a system or dataset.|System entropy from urandom seeds the pseudo-random generator.
+ephemeral|adjective|Lasting for a very short time; transitory.|Temporary scratch files are ephemeral and removed upon completion.
+heuristic|noun|A practical technique not guaranteed to be optimal but sufficient for immediate goals.|The pathfinding algorithm employs a Manhattan distance heuristic.
+idempotent|adjective|Denoting an operation that can be applied multiple times without changing the result.|The file deletion routine is idempotent since repeating it is harmless.
+immutable|adjective|Unchanging over time or unable to be modified after creation.|String literals in C are immutable and placed in read-only memory.
+iteration|noun|The repetition of a process in order to generate a sequence of outcomes.|Each iteration of the loop processes one line of input.
+logarithm|noun|The exponent indicating the power to which a base number must be raised to produce a given number.|The time complexity of binary search grows as the logarithm of array size.
+matrix|noun|A rectangular array of numbers or symbols arranged in rows and columns.|The 2D game board is represented internally as a 3x3 matrix.
+memory|noun|Physical devices used to store programs or data on a temporary or permanent basis.|AddressSanitizer verifies that allocated heap memory has no leaks.
+mutex|noun|A mutual exclusion lock used to prevent multiple threads from accessing shared resources simultaneously.|The worker acquired the mutex before modifying the shared counter.
+overflow|noun|The condition that occurs when a calculation produces a result exceeding available storage capacity.|Unsigned integer arithmetic in C wraps around rather than causing undefined overflow.
+palindrome|noun|A word, phrase, or number that reads the same backward as forward.|A man a plan a canal Panama is a classic sentence palindrome.
+parameter|noun|A numerical or other measurable factor forming one of a set that defines a system or operation.|The function accepts a maximum capacity parameter.
+pointer|noun|A programming language object that stores the memory address of another value.|The pointer dereference accessed the first element of the buffer.
+recursion|noun|The process of defining a function in terms of itself.|The recursive descent parser handles nested parenthetical expressions.
+sanitizer|noun|A runtime tool that detects bugs such as memory corruption or undefined behavior.|AddressSanitizer caught the out-of-bounds array access instantly.
+syntax|noun|The set of rules that define the combinations of symbols considered correctly structured.|A missing semicolon triggers a syntax error in C.
+thread|noun|The smallest sequence of programmed instructions managed independently by an operating system scheduler.|Worker threads communicate via message queues.
+token|noun|A categorized block of text representing a basic lexical component in language processing.|The lexical analyzer broke the source text into tokens.
+validation|noun|The action of checking or proving the validity or accuracy of data.|Input validation prevents buffer overflows and injection attacks.

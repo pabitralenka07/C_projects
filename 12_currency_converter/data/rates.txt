@@ -1,0 +1,11 @@
+# Currency Rates File (Static Sample Data - Educational Use Only)
+DATE=2026-10-26
+BASE=USD
+USD:US Dollar:1.000000:2
+EUR:Euro:0.920000:2
+GBP:British Pound:0.790000:2
+JPY:Japanese Yen:152.350000:0
+CAD:Canadian Dollar:1.380000:2
+AUD:Australian Dollar:1.510000:2
+CHF:Swiss Franc:0.860000:2
+INR:Indian Rupee:84.050000:2

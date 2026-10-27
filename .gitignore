@@ -1,0 +1,36 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build Artifacts
+build/
+*/build/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dSYM/
+*.out
+
+# Runtime Generated Data (Keep seed text files)
+data/*.dat
+data/*.dat.bak
+data/*.tmp
+*/data/*.dat
+*/data/*.dat.bak
+*/data/*.tmp
+*/data/*.csv
+
+# Exceptions: Seed files required by applications
+!12_currency_converter/data/rates.txt
+!15_dictionary_app/data/seed_words.txt
+
+# Logs & Temporary files
+*.log
+test_log.txt
